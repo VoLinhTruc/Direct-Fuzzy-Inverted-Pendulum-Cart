@@ -1,0 +1,3 @@
+(u(5)*cos(u(1)) - (M + m_)*g*sin(u(1)) + m_*L*cos(u(1))*sin(u(1))*u(2)) / (m_*L*(cos(u(1)))^2 - (M + m_)*L)
+
+(u(5) + m_*L*sin(u(1))*u(2)^2 - m_*g*cos(u(1))*sin(u(1))) / (M + m_ - m_*cos(u(1))^2)
